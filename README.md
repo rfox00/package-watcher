@@ -1,3 +1,5 @@
+forked from [ThisIsManta/vscode-package-watch](https://github.com/ThisIsManta/vscode-package-watch)
+
 **Package Watch** is a Visual Studio Code extension that checks and installs the local node dependencies. It monitors your `package.json`, `package-lock.json` or `yarn.lock`, and installs the missing/outdated node dependencies using `yarn` or `npm` automatically.
 
 ## Basic usage
